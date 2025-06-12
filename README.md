@@ -30,7 +30,7 @@ An AI-powered web application that simulates virtual users, dynamically personal
 |---------------|----------------------------------|
 | Frontend      | React.js + Vite                  |
 | Styling       | Tailwind CSS / CSS Modules       |
-| Database      | Supabase (PostgreSQL)            |
+| Database      | Mongodb Atlas                    |
 | Icons         | Lucide React                     |
 | Version Control | Git + GitHub                   |
 
